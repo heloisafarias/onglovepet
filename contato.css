@@ -1,0 +1,86 @@
+body {
+    background-color: #F1FAE3;
+    font-family: Verdana;
+}
+#menu ul {
+    padding:10px;
+   
+    font-family: Verdana, Arial, Helvetica;
+    text-align: center;
+    font-weight: 726;
+    background-color: black;
+    width: 100%;
+}
+
+a:link {
+   color: white;
+   text-decoration: none;
+   margin: 30px;
+   
+}
+
+a:hover {
+  background-color:  #33cc33 ;
+   
+}
+
+a:visited {
+    color:white;
+}
+
+.principal {
+	text-align: center;
+
+
+}
+
+fieldset {
+    border: 0;
+}
+
+
+#menu ul li { 
+display: inline; 
+
+ }
+
+.rodape {
+	color: white;
+    text-align: center;
+    font-weight: 726;
+    background-color: black;
+    width: 100%;
+    padding: 30px;
+   position: absolute;
+	bottom: 0;
+
+}
+
+.form {
+    text-align: center;
+    border-style: none;
+  
+}
+
+#formulario {
+   border-style: none;
+    margin: 15px;
+    font-family: Verdana;
+    width: 500px;
+    text-align: center;
+}
+
+#nome {
+    margin: 5px;
+    padding: 8px;
+}
+
+#texto {
+    margin: 5px;
+    padding: 8px;
+}
+
+#email {
+   margin: 5px;
+    padding: 8px;
+}

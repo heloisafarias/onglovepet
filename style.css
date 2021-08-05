@@ -1,0 +1,65 @@
+body {
+    background-color: #F1FAE3;
+      font-family: verdana;
+}
+#menu ul {
+    padding:10px;
+   
+    font-family: Verdana, Arial, Helvetica;
+    text-align: center;
+    font-weight: 726;
+    background-color: black;
+    width: 100%;
+}
+
+a:link {
+   color: white;
+   text-decoration: none;
+   margin: 30px;
+   
+}
+
+a:hover {
+  background-color:  #33cc33 ;
+   
+}
+
+a:visited {
+    color:white;
+}
+
+.principal {
+	text-align: center;
+
+
+}
+
+#imagem1 {
+	border: 6px solid #33cc33;
+}
+
+#imagem2 {
+	border: 6px solid #33cc33;
+}
+
+
+.frase {
+	font-size: 30px;
+}
+
+#menu ul li { 
+display: inline; 
+
+ }
+
+.rodape {
+	color: white;
+    text-align: center;
+    font-weight: 726;
+    background-color: black;
+    width: 100%;
+    padding: 30px;
+   position: absolute;
+	bottom: 0;
+
+}
